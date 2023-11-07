@@ -15,5 +15,6 @@ I live in Lyon, France and I'm in High School at Saint-Thomas d'Aquin.
 Take in touch :  
 Discord : isometric-capybara#4301
   
-  
-> If it's not open-source; then it's sauce.
+>
+> If it's not open-source; then it's sauce.  
+>-- me
